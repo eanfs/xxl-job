@@ -1,14 +1,8 @@
 .idea
 .classpath
 .project
-logs
-*.log
 *.iml
 target/
 .DS_Store
 .gitattributes
-logs
-*.log
-*.bak
-*.tmp
-~.*
+.worktrees
